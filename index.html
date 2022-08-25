@@ -3,6 +3,7 @@
   <script type="text/javascript">
   function change() {
     document.getElementById("click-here").value = "Hello!";
+    const a = crypto.subtle.digest("SHA-256", Uint8Array.from("test"));
   }
  </script>
  </head>
