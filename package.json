@@ -21,7 +21,7 @@
     "serve-static": "^1.11.1"
   },
   "devDependencies": {
-    "testcafe": "latest",
+    "testcafe": "^3.6.2",
     "testcafe-browser-provider-saucelabs": "^1.8.2"
   }
 }
